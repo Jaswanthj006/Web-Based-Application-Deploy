@@ -1,0 +1,21 @@
+Equipment Name,Type,Flowrate,Pressure,Temperature
+Reactor R-101,Reactor,150,2.5,85
+Pump P-201,Centrifugal Pump,200,1.2,25
+Heat Exchanger E-301,Shell and Tube,180,3.0,120
+Distillation Column C-401,Column,100,1.0,95
+Compressor K-501,Centrifugal,250,4.5,45
+Tank T-101,Storage Tank,50,0.5,30
+Reactor R-102,Reactor,175,2.8,90
+Pump P-202,Centrifugal Pump,220,1.5,28
+Heat Exchanger E-302,Plate,160,2.2,110
+Distillation Column C-402,Column,120,1.2,100
+Compressor K-502,Reciprocating,200,5.0,50
+Tank T-102,Storage Tank,60,0.6,32
+Reactor R-103,Reactor,140,2.2,80
+Pump P-203,Positive Displacement,180,2.0,22
+Heat Exchanger E-303,Shell and Tube,190,2.8,115
+Distillation Column C-403,Column,110,1.1,98
+Compressor K-503,Centrifugal,270,4.2,48
+Tank T-103,Storage Tank,55,0.55,28
+Reactor R-104,Reactor,160,2.6,88
+Pump P-204,Centrifugal Pump,210,1.3,26
